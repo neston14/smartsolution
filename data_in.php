@@ -45,7 +45,7 @@
 	}
 		
 	function addEnergyData($con,$SENSOR_ID,$SOURCE_ID,$VALUE){
-		$INSERT_STMT_ENERGY="INSERT INTO `smartsolution`.`ss_raw_data`(`SENSOR_ID`,`VALUE`,`SOURCE_ID`) VALUES('$SENSOR_ID','$SOURCE_ID',$VALUE);";
+		$INSERT_STMT_ENERGY="INSERT INTO `smartsolution`.`ss_raw_data`(`SENSOR_ID`,`VALUE`,`SOURCE_ID`) VALUES('$SENSOR_ID',$VALUE,'$SOURCE_ID');";
 		echo $INSERT_STMT_ENERGY;	
 		mysqli_query($con,$INSERT_STMT_ENERGY);	
 		
