@@ -1,0 +1,324 @@
+body {
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.bodyText A:link {
+	COLOR: #660099; TEXT-DECORATION: none
+}
+.bodyText A:visited {
+	COLOR: #660099; TEXT-DECORATION: none
+}
+.bodyText A:hover {
+	COLOR: #660099; TEXT-DECORATION: none
+}
+
+.menuHeader A:link {
+	COLOR: #660099; TEXT-DECORATION: none
+}
+.menuHeader A:visited {
+	COLOR: #660099; TEXT-DECORATION: none
+}
+.menuHeader A:hover {
+	COLOR: #660099; TEXT-DECORATION: none
+}
+
+table, th, td {
+	color:black;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-weight:bold;
+	font-size: 12px;
+}
+
+.entryTableHeaderTD1{
+	color:black;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 12px;
+	color:#000000;
+}
+.entryTableHeaderTD2{
+	color:black;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 12px;
+	color:#000000;
+}
+
+.entryTableUsermanagement{
+	text-align: left;
+	color:black;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	color: #660000;
+	font-size: 10px;
+	width: 400px;
+}
+.entryTextBoxUsermanagement{ 
+    border: 2px dashed #000000; 
+    outline:0; 
+    height:15px; 
+    width: 220px; 
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 12px;
+	text-align: left;
+}
+.entryListUsermanagement{ 
+    border: 2px dashed #000000; 
+    outline:0; 
+    height:25px; 
+    width: 270px; 
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 12px;
+	text-align: left;
+}
+
+
+.uploadTable{ 
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 14px;
+	text-align: left;
+}
+.uploadTextBox{ 
+    border: 1px dashed #000000; 
+    outline:0; 
+    height:20px; 
+    width: 200px; 
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 12px;
+	text-align: left;
+}
+.listMonth{ 
+    border: 1px dashed #000000; 
+    outline:0; 
+    height:25px; 
+    width: 100px; 
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 12px;
+	text-align: left;
+}
+.listGroup{ 
+    border: 1px dashed #000000; 
+    outline:0; 
+    height:25px; 
+    width: 300px; 
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 12px;
+	text-align: left;
+}
+.listReportType{ 
+    border: 1px dashed #000000; 
+    outline:0; 
+    height:25px; 
+    width: 200px; 
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 12px;
+	text-align: left;
+}
+.listYear{ 
+    border: 1px dashed #000000; 
+    outline:0; 
+    height:25px; 
+    width: 70px; 
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 12px;
+	text-align: left;
+}
+
+.myButton {
+	-moz-box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	-webkit-box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #768d87), color-stop(1, #6c7c7c));
+	background:-moz-linear-gradient(top, #768d87 5%, #6c7c7c 100%);
+	background:-webkit-linear-gradient(top, #768d87 5%, #6c7c7c 100%);
+	background:-o-linear-gradient(top, #768d87 5%, #6c7c7c 100%);
+	background:-ms-linear-gradient(top, #768d87 5%, #6c7c7c 100%);
+	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#768d87', endColorstr='#6c7c7c',GradientType=0);
+	background-color:#768d87;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 23px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #2b665e;
+}
+
+.myButton {
+	-moz-box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	-webkit-box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #768d87), color-stop(1, #6c7c7c));
+	background:-moz-linear-gradient(top, #768d87 5%, #6c7c7c 100%);
+	background:-webkit-linear-gradient(top, #768d87 5%, #6c7c7c 100%);
+	background:-o-linear-gradient(top, #768d87 5%, #6c7c7c 100%);
+	background:-ms-linear-gradient(top, #768d87 5%, #6c7c7c 100%);
+	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#768d87', endColorstr='#6c7c7c',GradientType=0);
+	background-color:#768d87;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	padding:7px 10px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #2b665e;
+}
+.myButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #6c7c7c), color-stop(1, #768d87));
+	background:-moz-linear-gradient(top, #6c7c7c 5%, #768d87 100%);
+	background:-webkit-linear-gradient(top, #6c7c7c 5%, #768d87 100%);
+	background:-o-linear-gradient(top, #6c7c7c 5%, #768d87 100%);
+	background:-ms-linear-gradient(top, #6c7c7c 5%, #768d87 100%);
+	background:linear-gradient(to bottom, #6c7c7c 5%, #768d87 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#6c7c7c', endColorstr='#768d87',GradientType=0);
+	background-color:#6c7c7c;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+.entryTableTitle{
+	text-align: center;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	color: #FFFFFF;
+	font-size: 10px;
+	width: 200px;
+	background-color: #330099;
+}
+
+.entryTableTitleNopx{
+	text-align: center;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	color: #FFFFFF;
+	font-size: 10px;
+	background-color: #330099;
+}
+
+.entryTableBorderRight{
+	text-align: center;
+	color:black;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	color: #FFFFFF;
+	font-size: 10px;
+	width: 200px;
+	background-color: #330099;
+	border-right:1px solid #660099;
+
+}
+.entryTableBorderLeft{
+	text-align: center;
+	color:black;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	color: #FFFFFF;
+	font-size: 10px;
+	width: 200px;
+	background-color: #330099;
+	border-left:1px solid #660099;
+
+}
+.entryTableBorderTop{
+	text-align: center;
+	color:black;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	color: #FFFFFF;
+	font-size: 10px;
+	width: 200px;
+	background-color: #330099;
+	border-top:1px solid #660099;
+
+}
+
+.entryTableBorderBottom{
+	text-align: center;
+	color:black;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	color: #FFFFFF;
+	font-size: 10px;
+	width: 200px;
+	background-color: #330099;
+	border-bottom:1px solid #660099;
+
+}
+
+.entryTableBorderBottomRight{
+	text-align: center;
+	color:black;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	color: #FFFFFF;
+	font-size: 10px;
+	width: 200px;
+	background-color: #330099;
+	border-bottom:1px solid #660099;
+	border-right:1px solid #660099;
+
+}
+
+
+.entryTable{
+	text-align: center;
+	color:black;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 10px;
+	width: 200px;
+	background-color: #FF99FF;
+}
+
+.entryTableEmptyNopx{
+	text-align: center;
+	color:black;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 10px;
+	background-color: #FF99FF;
+}
+
+.entryTableEmptyNopxLeft{
+	color:black;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 10px;
+	background-color: #FF99FF;
+}
+.entryTableBottom{
+	text-align: center;
+	color:black;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 10px;
+	width: 200px;
+	background-color: #FF99FF;
+	border-bottom:1px solid #660099;
+}
+.entryTextBox{ 
+    border: 2px dashed #000000; 
+    outline:0; 
+    height:14px; 
+    width: 45px; 
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 10px;
+	text-align: right;
+}
+.entryDisabledTextBox{ 
+	background: #CC9999;
+    border: 1px dashed #000000; 
+    outline:0; 
+    height:14px; 
+    width: 45px; 
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 10px;
+	text-align: right;
+	
+}
